@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-05-20T13:54:10.6736978Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-05-20T14:11:55.3810826Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-05-20T14:12:02.5296778Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "netcorelabnew"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "34e963a1-c6cf-4022-ba8f-333edc75257a"
+    }
+  }
+}
